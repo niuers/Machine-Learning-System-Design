@@ -10,5 +10,9 @@
     * The patterns are constantly changing
 1. Enterprise applications might have stricter accuracy requirements but less latency requirements.
 
+## 
+1. The most successful approach to ML production I’ve seen in the industry is iterative and incremental development.
+2. 
+
 # References
 1. Designing Machine Learning Systems, Chip Huyen
